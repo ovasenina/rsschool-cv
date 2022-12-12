@@ -1,9 +1,9 @@
 # Olga Vasenina
-![woman](/Users/vasenina/Downloads/Olga-CV.JPEG "Ольга Васенина")
+![woman](https://drive.google.com/file/d/1LjmBRLHcYVcvbGKCuDOV4l21gwNF5quZ/view?usp=share_link "Ольга Васенина")
 ## Contact information:
-+**Phone:** +351 925 408 342
-+**E-mail:** vasenina.com@gmail.com
-+**Tg:** @vasenina
++ **Phone:** +351 925 408 342
++ **E-mail:** vasenina.com@gmail.com
++ **Tg:** @vasenina
 ## Briefly About Myself:
 Graphic designer experienced also in web-design, interested in moving forward and developing skills.
 Mature employee knowing the goal and ways to reach it. Responsible, consecutive, focused, organised and punctual.
@@ -40,4 +40,13 @@ Mature employee knowing the goal and ways to reach it. Responsible, consecutive,
     <img src="img/inst.svg" alt="Instagram">
 </a>
 </div>
-</div>```
+</div>
+```
+## Education & Cources:
++ IGUMO Moscow, Russia / Bachelor of Science, Linguistics, Jun. 2017
++ Tomsk State University Tomsk, Russia / Advanced Training Course, UI Design, Dec. 2021
+## Languages:
++ English - Upper-intermediate
++ Russian - Native
++ German - Basic
++ Portuguese - Basic
