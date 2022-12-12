@@ -1,10 +1,11 @@
 # Olga Vasenina
-![woman](https://drive.google.com/file/d/1LjmBRLHcYVcvbGKCuDOV4l21gwNF5quZ/view?usp=share_link "Ольга Васенина")
+![woman](https://github.com/ovasenina/rsschool-cv/blob/e80c6a4bfea9c82309163feaaff328846f19ef3e/Olga-CV.JPEG "Ольга Васенина")
 ## Contact information:
 + **Phone:** +351 925 408 342
 + **E-mail:** vasenina.com@gmail.com
 + **Tg:** @vasenina
 ## Briefly About Myself:
+38 y.o., married, 1 child. Originally from Moscow, Russia, now based in Porto, Portugal.
 Graphic designer experienced also in web-design, interested in moving forward and developing skills.
 Mature employee knowing the goal and ways to reach it. Responsible, consecutive, focused, organised and punctual.
 ## Skills and Proficiency
