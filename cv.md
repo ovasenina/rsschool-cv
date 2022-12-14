@@ -13,7 +13,8 @@ Mature employee knowing the goal and ways to reach it. Responsible, consecutive,
 + VS Code
 + Adobe Photoship, Illustrator, CorelDraw, Figma
 ## Code example:
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="utf-8">
